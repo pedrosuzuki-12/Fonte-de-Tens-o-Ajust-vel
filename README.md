@@ -45,6 +45,10 @@ https://tinyurl.com/2yqzh566
 
 
 # PCB no Eagle
+![{5D3AD645-4C68-47A2-94C1-5521AD20DE3D}](https://github.com/user-attachments/assets/c422582b-90c5-40c2-bf61-515667d520b0)
+
+
+![{19CC4951-48AF-44A3-9447-AF82FA42B180}](https://github.com/user-attachments/assets/c6e3d7ae-8a41-4e7f-9b65-25f16a7c0c46)
 
 
 # Vídeo do funcionamento e fotos da fonte
