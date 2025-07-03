@@ -24,10 +24,11 @@ Para desenvolver essa solução, começamos com a fase de simulação, utilizand
 |resistor 100 (5W)|1|R$1,90|
 |resistor 1k|10|R$0,70|
 |resistor 4.7k|10|R$0,70|
+|resistor 3.3k|10|R$0,70|
 |led|1|R$0,50|
 |transistor|1|R$0,70|
 |protoboard|1|R$21,70|
-| **`TOTAL:`** | 28 | **`R$39,10`** |
+| **`TOTAL:`** | 38 | **`R$39,80`** |
 
 # Sobre os componentes
 - **transformador**: reduz a corrente alternada (AC) de 127V da tomada, para uma faixa de tensão alternada menor de acordo com a razão entre o número de espiras de um lado para o outro do componente.
