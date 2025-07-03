@@ -1,11 +1,11 @@
 # Fonte de tensão ajustável
 
-*trabalho da disciplina Eletronica para Computação - SSC0180*
+*trabalho da disciplina Eletrônica para Computação - SSC0180*
 
 # Sobre o projeto
 Neste projeto, criamos uma fonte de alimentação capaz de transformar a tensão alternada (AC) da tomada em uma tensão contínua (DC) ajustável, variando de 3V a 12V, com uma corrente máxima de 100mA.
 
-Para desenvolver essa solução, começamos com a fase de simulação, utilizando ferramentas como Falstad e Eagle para testar e refinar o design do circuito. Com o projeto validado, partimos para a construção física da fonte. 
+Para desenvolver essa solução, começamos com a fase de simulação, utilizando ferramentas como Falstad, Tinkercad e Eagle para testar e ajustar o design do circuito para depois fazer o projeto físico em uma protoboard.
 
 # Integrantes
 
@@ -15,18 +15,19 @@ Para desenvolver essa solução, começamos com a fase de simulação, utilizand
 - Philippe Sardenberg Castro Couto - 16897421
 
 # Tabela dos componentes
-| componente | quantidade | custo unitário |
+| componente | quantidade | valor total |
 | :----: | :----: | :----: |
 |diodo zener|1|R$0,50|
 |capacitor 1000uF|1|R$1,50|
 |ponte retificadora|1|R$3,90|
-|potenciometro|1|R$7,00|
+|potenciômetro|1|R$7,00|
 |resistor 100 (5W)|1|R$1,90|
-|resistor 1k|1|R$0,07|
-|resistor 4.7k|1|R$0,07|
+|resistor 1k|10|R$0,70|
+|resistor 4.7k|10|R$0,70|
+|led|1|R$0,50|
 |transistor|1|R$0,70|
 |protoboard|1|R$21,70|
-| | **`TOTAL:`** | **`R$37,34`** |
+| | **`TOTAL:`** | **`R$39,10`** |
 
 # Sobre os componentes
 - **transformador**: reduz a corrente alternada (AC) de 127V da tomada, para uma faixa de tensão alternada menor de acordo com a razão entre o número de espiras de um lado para o outro do componente.
@@ -36,7 +37,7 @@ Para desenvolver essa solução, começamos com a fase de simulação, utilizand
 - **diodo zener**: é um componente de segurança e estabilização. Quando a tensão em seus terminais tenta ultrapassar 13V, ele "conduz" a corrente de forma a limitar a tensão nesse valor. Se a tensão for menor que 13V, ele funcionz como um fio. Sua função é proteger o circuito de picos de tensão e garantir que a voltagem nunca exceda um limite seguro para os componentes seguintes.
 - **potenciômetro**: O potenciômetro é um resistor variável, o que significa que sua resistência pode ser alterada manualmente. No circuito, ele é a interface principal para controlar a tensão de saída, permitindo ela seja ajustada de 3V a 12V.
 - **transistor**: age como uma chave controlada por corrente, mas também como um amplificador. Uma pequena corrente que flui para sua base controla uma corrente muito maior que passa entre seus outros terminais. No circuito, ele amplifica a corrente que recebe do potenciômetro para um valor desejado, com um máximo de 100mA.
-- **resistores**: limitam o fluxo de corrente para proteger outros componentes, possibilitando o "controle" da tensão e, por consequência, corrente e potência associadas a um componente do circuito.
+- **resistores**: limitam o fluxo de corrente para proteger outros componentes, possibilitando o "controle" da tensão e, por consequência, da corrente e da potência associadas a um componente do circuito.
 
 
 # Imagem do circuito no Falstad
