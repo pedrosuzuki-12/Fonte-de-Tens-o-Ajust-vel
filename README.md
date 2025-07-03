@@ -18,7 +18,7 @@ Para desenvolver essa solução, começamos com a fase de simulação, utilizand
 | :----: | :----: | :----: |
 |diodo zener|1|R$0,50|
 |capacitor 1000uF|1|R$1,50|
-|ponte retificadora|R$3,90|
+|ponte retificadora|1|R$3,90|
 |potenciometro|1|R$7,00|
 |resistor 100 (5W)|1|R$1,90|
 |resistor 1k|1|R$0,07|
