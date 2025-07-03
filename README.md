@@ -7,6 +7,12 @@ Neste projeto, criamos uma fonte de alimentação capaz de transformar a tensão
 
 Para desenvolver essa solução, começamos com a fase de simulação, utilizando ferramentas como Falstad e Eagle para testar e refinar o design do circuito. Com o projeto validado, partimos para a construção física da fonte. 
 
+#Integrantes
+
+- Pedro Vitor Suzuki Lau - 13837133 
+- Gustavo Henrique Brunelli - 11801053
+- Christian Bernard - 11795572
+
 # Tabela dos componentes
 | componente | quantidade | custo unitário |
 | :----: | :----: | :----: |
@@ -46,5 +52,4 @@ Para desenvolver essa solução, começamos com a fase de simulação, utilizand
 
 
 
-# Integrantes
 
