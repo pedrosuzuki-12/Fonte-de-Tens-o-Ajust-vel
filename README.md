@@ -27,7 +27,7 @@ Para desenvolver essa solução, começamos com a fase de simulação, utilizand
 |led|1|R$0,50|
 |transistor|1|R$0,70|
 |protoboard|1|R$21,70|
-| | **`TOTAL:`** | **`R$39,10`** |
+| **`TOTAL:`** | 38 | **`R$39,10`** |
 
 # Sobre os componentes
 - **transformador**: reduz a corrente alternada (AC) de 127V da tomada, para uma faixa de tensão alternada menor de acordo com a razão entre o número de espiras de um lado para o outro do componente.
