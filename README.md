@@ -39,6 +39,9 @@ Para desenvolver essa solução, começamos com a fase de simulação, utilizand
 
 
 # Imagem do circuito no Falstad
+https://tinyurl.com/2yqzh566
+
+![image](https://github.com/user-attachments/assets/3374c135-d6df-4a32-83b3-f3f7110b05c7)
 
 
 # PCB no Eagle
