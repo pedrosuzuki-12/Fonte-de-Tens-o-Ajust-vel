@@ -56,7 +56,7 @@ Para desenvolver essa solução, começamos com a fase de simulação, utilizand
 
 # Vídeo do funcionamento e fotos da fonte
 
-
+![WhatsApp Image 2025-07-03 at 21 06 29](https://github.com/user-attachments/assets/ce0e85e9-9955-485f-9cc4-0e9013e2ec9c)
 
 
 
