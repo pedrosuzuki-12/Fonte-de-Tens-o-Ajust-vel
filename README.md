@@ -42,9 +42,9 @@ Para desenvolver essa solução, começamos com a fase de simulação, utilizand
 
 
 # Imagem do circuito no Falstad
-https://tinyurl.com/2yqzh566
+[https://tinyurl.com/2yqzh566](https://tinyurl.com/2d6g936q)
 
-![image](https://github.com/user-attachments/assets/3374c135-d6df-4a32-83b3-f3f7110b05c7)
+![image](https://github.com/user-attachments/assets/3946b5f9-bd36-44fc-9961-3f619e7ebda8)
 
 
 # PCB no Eagle
