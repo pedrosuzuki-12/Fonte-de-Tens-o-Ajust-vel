@@ -5,7 +5,7 @@
 # Sobre o projeto
 Neste projeto, criamos uma fonte de alimentação capaz de transformar a tensão alternada (AC) da tomada em uma tensão contínua (DC) ajustável, variando de 3V a 12V, com uma corrente máxima de 100mA.
 
-Para desenvolver essa solução, começamos com a fase de simulação, utilizando ferramentas como Falstad, Tinkercad e Eagle para testar e ajustar o design do circuito para depois fazer o projeto físico em uma protoboard.
+Para desenvolver esse projeto, começamos com simulações, utilizando ferramentas como Falstad, Tinkercad e Eagle para testar e ajustar o design do circuito para depois fazer o projeto físico em uma protoboard.
 
 # Integrantes
 
@@ -41,7 +41,7 @@ Para desenvolver essa solução, começamos com a fase de simulação, utilizand
 - **resistores**: limitam o fluxo de corrente para proteger outros componentes, possibilitando o "controle" da tensão e, por consequência, da corrente e da potência associadas a um componente do circuito.
 
 
-# Imagem do circuito no Falstad
+# Imagem do circuito no Falstad e link
 [https://tinyurl.com/2yqzh566](https://tinyurl.com/2d6g936q)
 
 ![image](https://github.com/user-attachments/assets/3946b5f9-bd36-44fc-9961-3f619e7ebda8)
@@ -54,7 +54,7 @@ Para desenvolver essa solução, começamos com a fase de simulação, utilizand
 ![{19CC4951-48AF-44A3-9447-AF82FA42B180}](https://github.com/user-attachments/assets/c6e3d7ae-8a41-4e7f-9b65-25f16a7c0c46)
 
 
-# Vídeo do funcionamento e fotos da fonte
+# Vídeo do funcionamento e foto da fonte
 
 ![WhatsApp Image 2025-07-03 at 21 06 29](https://github.com/user-attachments/assets/ce0e85e9-9955-485f-9cc4-0e9013e2ec9c)
 
