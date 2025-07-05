@@ -59,6 +59,10 @@ Para desenvolver essa solução, começamos com a fase de simulação, utilizand
 ![WhatsApp Image 2025-07-03 at 21 06 29](https://github.com/user-attachments/assets/ce0e85e9-9955-485f-9cc4-0e9013e2ec9c)
 
 
+https://github.com/user-attachments/assets/6cac7a49-c686-468c-a953-52fc59323e3d
+
+
+
 
 
 
